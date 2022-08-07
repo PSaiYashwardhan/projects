@@ -1,0 +1,21 @@
+OBJECTIVES:
+
+1. BUILD A PROJECT
+    -creating a folder
+    -adding files
+    -connecting files
+
+2. NAVBAR
+   -2 links and a name
+
+3. Portfoilio item grid
+   -images
+   -titles
+   -description
+   -animations
+   -animations
+
+4.About page
+  - image
+  -split column layout
+  -content
